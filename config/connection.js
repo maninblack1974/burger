@@ -11,7 +11,7 @@ if (process.env.JAWSDB_URL) {
     password: "athwxrws9kl2lyzv",
     database: "o6kpjeev9xdtkzf3"
   });
-});
+}
 
 connection.connect(function(err) {
   if (err) {
