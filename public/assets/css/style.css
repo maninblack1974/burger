@@ -23,7 +23,7 @@ body {
 }
 
 .jumbotron {
-  background-color: red;
+  background-color: yellow;
 }
 
 .container-fluid {
@@ -32,7 +32,7 @@ body {
 }
 
 .display-4 {
-  color: #222f66;
+  color: green;
   text-align: center;
   font-size: 30px;
   margin: 0 auto;
@@ -42,7 +42,7 @@ h2 {
 margin: 15px;
 line-height: 1.2;
 font-weight: bold;
-color:  #222f66
+color:  green
 }
 
 h1,
@@ -71,7 +71,7 @@ ol {
   list-style-type: none;
   padding: 0;
   margin: 0;
-  color: white;
+  color: green;
 }
 
 a {
@@ -89,7 +89,7 @@ button {
   background-color: yellow;
   border: thin solid transparent;
   border-radius: 6px;
-  color: #fff;
+  color: green;
   font-weight: bold;
   font-size: .8em;
   text-transform: uppercase;
@@ -100,7 +100,7 @@ button {
 button:focus, button:hover, button:active {
   border: thin solid yellow;
   background-color: transparent;
-  color: white;
+  color: green;
   outline: none !important;
   -webkit-box-shadow: none;
           box-shadow: none;
